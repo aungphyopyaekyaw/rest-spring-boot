@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "restful",
+            "projectName": "restful",
+            "workingDirectory": "/Users/agphyo/Playground/spring/restful",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "restful",
+            "projectName": "restful",
+            "workingDirectory": "/Users/agphyo/Playground/spring/restful",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}
